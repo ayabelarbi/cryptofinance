@@ -1,6 +1,7 @@
 # Cryptofinance 
 ---
 ## Part 1 — Statistics
+> **Status:** ✅ completed
 
 See in >statistics>Cryptofinance_1.ipynb
 
