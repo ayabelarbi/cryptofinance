@@ -19,8 +19,7 @@ This part studies different mining strategies and their profitability.
 - Comparison with the theoretical formula
 - Identification of the profitability threshold
 
-📓 Notebook:  
-➡️ [`Strategy_1plus2.ipynb`](https://colab.research.google.com/drive/19TyU__2lcfo9NBNDaUpg-BtOxzkiMAsV?usp=sharing)
+➡️  [Google Collab link - Strategy_1plus2.ipynb](https://colab.research.google.com/drive/19TyU__2lcfo9NBNDaUpg-BtOxzkiMAsV?usp=sharing)
 
 ---
 
