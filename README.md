@@ -3,7 +3,7 @@
 ## Part 1 — Statistics
 > **Status:** ✅ completed
 
-[See in](https://github.com/ayabelarbi/cryptofinance/blob/dfb1758dc10742593828faa051207f7fbe76980e/statistics/Cyptofinance_1.ipynb)
+[See in Statistics](https://github.com/ayabelarbi/cryptofinance/blob/dfb1758dc10742593828faa051207f7fbe76980e/statistics/Cyptofinance_1.ipynb)
 
 ---
 ## Part 2 — Mining Strategies
