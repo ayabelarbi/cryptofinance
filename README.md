@@ -27,13 +27,23 @@ This part studies different mining strategies and their profitability.
 
 ### 2.2 Selfish mining
 
-> **Status:** ⏳ not started
+> **Status:** ✅ completed
 
-This part will study the classical selfish mining strategy and its dependence on:
-- hashing power `q`
-- network connectivity parameter `g`
+This section analyzes the classical Selfish Mining (SM1) strategy and its dependence on:
+- **Hashing power `q`**: Fraction of total network hash power
+- **Network connectivity parameter `γ`**: Influence during blockchain ties (0 ≤ γ ≤ 1)
 
----
+**Key achievements:**
+- Implementation of theoretical formulas (Eyal & Sirer 2014)
+- Generation of **(q, γ) profitability maps** showing regions where SM is more profitable than honest mining
+- **Threshold analysis** revealing q*(γ): profitability threshold decreases from 33.3% (γ=0) to ~0% (γ=1)
+- **Comparison with Strategy 1+2**: SM has 8-16 percentage points lower threshold and 4-8× higher maximum gains
+- **Security analysis**: Identification of three zones (safe, marginal, dangerous) and implications for Bitcoin's incentive compatibility
+- **Comprehensive conclusions**: Network connectivity is the dominant attack vector; protocol modifications are necessary
+
+**Main finding:** Selfish Mining becomes profitable at 25-33% hash power (depending on connectivity), significantly more dangerous than Strategy 1+2 (41.4% threshold).
+
+[See in Mining-strategy](https://github.com/ayabelarbi/cryptofinance/blob/main/mining-strategy/Section_2_2_Selfish_Mining.ipynb)
 
 ### 2.3 Optimal selfish mining
 
