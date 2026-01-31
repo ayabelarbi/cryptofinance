@@ -127,7 +127,9 @@ This project is for educational purposes as part of academic coursework.
 
 ## 👤 Author
 
+Aya - [GitHub Profile](https://github.com/ayabelarbi)
 Aline - [GitHub Profile](https://github.com/alineuh)
+Lina - [GitHub Profile](https://github.com/linadevinci)
 
 ---
 
